@@ -1,0 +1,42 @@
+{
+    "dataout": [
+        {
+            "CID": 1,
+            "Date": "2017-02-23T19:41:21.397+0000",
+            "Method": "GET@1",
+            "Time": 38,
+            "UID": 1,
+            "_id": "5ccaff75b3ed08c5ff1b4537",
+            "src": "web"
+        },
+        {
+            "CID": 1,
+            "Date": "2017-02-23T19:41:22.019+0000",
+            "Method": "GET@2",
+            "Time": 52,
+            "UID": 1,
+            "_id": "5ccaff75b3ed08c5ff1b4538",
+            "src": "web"
+        }
+    ],
+    "reverse": [
+        {
+            "CID": 1,
+            "Date": "2017-02-23T19:41:22.019+0000",
+            "Method": "GET@2",
+            "Time": 52,
+            "UID": 1,
+            "_id": "5ccaff75b3ed08c5ff1b4538",
+            "src": "web"
+        },
+        {
+            "CID": 1,
+            "Date": "2017-02-23T19:41:21.397+0000",
+            "Method": "GET@1",
+            "Time": 38,
+            "UID": 1,
+            "_id": "5ccaff75b3ed08c5ff1b4537",
+            "src": "web"
+        }
+    ]
+}
